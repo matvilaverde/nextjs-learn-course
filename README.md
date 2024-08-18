@@ -5,7 +5,7 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 
 Simplified version of the financial dashboard, based on NextJS's public tutorial.
 
-Main base is on React and JavaScript.
+Main base is on React and TypeScript.
 
 At the end of the 16 steps, the project will contain:
 
@@ -14,3 +14,12 @@ At the end of the 16 steps, the project will contain:
 - Dashboard pages that are protected by authentication;
 - The ability for users to add, edit, and delete invoices;
 - A database set up.
+
+# How to Run
+
+Tutorial suggested using pnpm, so it's pretty simple:
+
+```
+pnpm i // to install
+pnpm dev // to start development server on port 3000
+```
